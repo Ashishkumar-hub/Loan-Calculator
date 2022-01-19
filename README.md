@@ -1,6 +1,6 @@
 # Loan-Calculator with GUI
 
-## Major Recallings from the Project
+#### Major Recallings from the Project
 
 - The Tkinter module contains the Tk toolkit. Here the whole module of Tkinter was imported in the first line. Next, a user-defined Class named **LoanCalculator** is calculated which holds its own data member and member functions.
 
